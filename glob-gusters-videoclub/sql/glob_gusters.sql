@@ -1,0 +1,3 @@
+-- Base de datos relacional  Glob-Gusters Video-Club
+-- Autor: Michael Stiven Leon Jimenez
+-- Fecha: 14/09/2026
